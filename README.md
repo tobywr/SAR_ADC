@@ -4,7 +4,7 @@
 
 ## Schematic of the Design.
 
-![Block Diagram](https://github.com/tobywr/SAR_ADC/images/schematic.jpeg "Schematic")
+![Block Diagram](https://github.com/tobywr/SAR_ADC/blob/main/images/schematic.jpeg "Schematic")
 
 ### Modules
 
